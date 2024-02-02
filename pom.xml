@@ -47,9 +47,6 @@
                  <artifactId>snyk-maven-plugin</artifactId>
                  <version>2.2.0</version>
                  <inherited>false</inherited>
-                <configuration>
-         		<org>devsecops</org>
-		</configuration>
     </plugin>
 		</plugins>
 	</build>
